@@ -10,7 +10,7 @@ from queue import Queue
 MYSQL_INFO = {"host": "192.168.12.120",
               "port": 3306,
               "user": "root",
-              "passwd": "012615",
+              "passwd": "123456",
               "db": "useradmin",
               "charset": "utf8"
               }
