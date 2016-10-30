@@ -1,0 +1,97 @@
+2016-09-18 15:03:58,404 - 123456 - INFO - Card:123456 repay 10000 successful!
+2016-09-18 15:04:11,919 - 123456 - INFO - Card:123456 withholding 1000 successful!
+2016-09-18 15:04:24,019 - 123456 - INFO - Card:123456 withholding 1050.0 successful!
+2016-09-19 10:19:34,684 - 123456 - INFO - Card:123456 withholding 1000 successful!
+2016-09-19 10:19:46,033 - 123456 - INFO - Card:123456 withholding 1000 successful!
+2016-09-19 10:19:53,047 - 123456 - INFO - Card:123456 withholding 1000 successful!
+2016-09-20 11:50:52,686 - 123456 - INFO - Card:123456 transfer 1000 to Card:666666 Successful!
+2016-09-20 11:50:52,686 - 123456 - INFO - Card:123456 transfer interest 50.0 RMB!
+2016-09-20 11:52:14,727 - 123456 - INFO - Card:123456 transfer 2000 to Card:666666 Successful!
+2016-09-20 11:52:14,728 - 123456 - INFO - Card:123456 transfer interest 100.0 RMB!
+2016-09-20 12:55:48,980 - 123456 - INFO - Card:123456 transfer 1000 to Card:666666 Successful!
+2016-09-20 12:55:48,980 - 123456 - INFO - Card:123456 transfer interest 50.0 RMB!
+2016-09-20 12:55:57,027 - 123456 - INFO - Card:123456 transfer 2000 to Card:666666 Successful!
+2016-09-20 12:55:57,027 - 123456 - INFO - Card:123456 transfer interest 100.0 RMB!
+2016-09-20 12:56:23,477 - 123456 - INFO - Card:123456 transfer 3000 to Card:666666 Successful!
+2016-09-20 12:56:23,477 - 123456 - INFO - Card:123456 transfer interest 150.0 RMB!
+2016-09-20 12:57:27,048 - 123456 - INFO - Card:123456 transfer 4000 to Card:666666 Successful!
+2016-09-20 12:57:27,048 - 123456 - INFO - Card:123456 transfer interest 200.0 RMB!
+2016-09-20 12:57:34,808 - 123456 - INFO - Card:123456 transfer 5000 to Card:666666 Successful!
+2016-09-20 12:57:34,808 - 123456 - INFO - Card:123456 transfer interest 250.0 RMB!
+2016-09-20 12:59:48,095 - 123456 - INFO - Card:123456 transfer 1000 to Card:666666 Successful!
+2016-09-20 12:59:48,095 - 123456 - INFO - Card:123456 transfer interest 50.0 RMB!
+2016-09-20 12:59:57,288 - 123456 - INFO - Card:123456 transfer 2000 to Card:666666 Successful!
+2016-09-20 12:59:57,288 - 123456 - INFO - Card:123456 transfer interest 100.0 RMB!
+2016-09-20 13:00:19,679 - 123456 - INFO - Card:123456 transfer 3000 to Card:666666 Successful!
+2016-09-20 13:00:19,679 - 123456 - INFO - Card:123456 transfer interest 150.0 RMB!
+2016-09-20 14:17:42,159 - 123456 - INFO - Card:123456 transfer 100 to Card:666666 Successful!
+2016-09-20 14:17:42,159 - 123456 - INFO - Card:123456 transfer interest 5.0 RMB!
+2016-09-20 14:17:54,988 - 123456 - INFO - Card:123456 transfer 100 to Card:666666 Successful!
+2016-09-20 14:17:54,988 - 123456 - INFO - Card:123456 transfer interest 5.0 RMB!
+2016-09-20 14:18:22,587 - 123456 - INFO - Card:123456 transfer 100 to Card:666666 Successful!
+2016-09-20 14:18:22,587 - 123456 - INFO - Card:123456 transfer interest 5.0 RMB!
+2016-09-20 14:24:18,267 - 123456 - INFO - Card:123456 transfer 125 to Card:666666 Successful!transfer interest 6.25 RMB!
+2016-09-20 14:35:14,396 - 123456 - INFO - Card:123456 repay 1000 RMB!
+2016-09-20 14:35:27,908 - 123456 - INFO - Card:123456 transfer 100 to Card:666666 Successful!transfer interest 5.0 RMB!
+2016-09-20 14:35:43,663 - 123456 - INFO - Card:123456 transfer 120 to Card:666666 Successful!transfer interest 6.0 RMB!
+2016-09-20 14:35:50,606 - 123456 - INFO - Card:123456 withdraw 100 RMB interest 5.0 RMB!
+2016-09-21 00:17:00,055 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:17:00,094 - 123456 - INFO - User ID:{'shop_cart': {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}}, 'password': '8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92', 'username': '胡湘林', 'privilege': 'admin', 'user_id': '123456', 'user_name': '胡湘林', 'freeze': False} pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} failed!Don't have enough money!
+2016-09-21 00:18:34,789 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:18:34,790 - 123456 - INFO - User ID:{'python cookbook': {'good_count': 2, 'good_unit_price': 80, 'good_name': 'python cookbook'}} pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_unit_price': 80, 'good_name': 'python cookbook'}} failed!Don't have enough money!
+2016-09-21 00:20:11,299 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:20:11,301 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} failed!Don't have enough money!
+2016-09-21 00:24:41,276 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:24:41,277 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} failed!Don't have enough money!
+2016-09-21 00:26:31,227 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:26:31,228 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} failed!Don't have enough money!
+2016-09-21 00:27:22,765 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:27:22,767 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} failed!Don't have enough money!
+2016-09-21 00:28:07,589 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:28:07,590 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_unit_price': 80, 'good_name': 'python cookbook'}} failed!Don't have enough money!
+2016-09-21 00:28:42,631 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:28:42,632 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} failed!Don't have enough money!
+2016-09-21 00:31:09,556 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:31:47,388 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} failed!Don't have enough money!
+2016-09-21 00:35:17,609 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:35:17,609 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_count': 2, 'good_name': 'python cookbook'}} Successful!
+2016-09-21 00:39:33,811 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:39:33,812 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_unit_price': 80, 'good_name': 'python cookbook'}} Successful!
+2016-09-21 00:44:40,916 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:44:40,918 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_count': 2, 'good_name': 'python cookbook'}} Successful!
+2016-09-21 00:51:05,316 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:51:05,317 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_name': 'python cookbook', 'good_unit_price': 80}} Successful!
+2016-09-21 00:53:46,911 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:53:46,912 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_count': 2, 'good_name': 'python cookbook'}} Successful!
+2016-09-21 00:55:51,963 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 00:55:51,964 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} Successful!
+2016-09-21 01:00:01,930 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 01:00:01,931 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} Successful!
+2016-09-21 01:02:53,380 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!
+2016-09-21 01:02:53,381 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_unit_price': 80, 'good_count': 2}} Successful!
+2016-09-21 01:05:07,925 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!Interest 0 RMB!
+2016-09-21 01:05:07,926 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} Successful!
+2016-09-21 01:08:00,145 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!Interest 0 RMB!
+2016-09-21 01:08:00,146 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_unit_price': 80, 'good_count': 2}} Successful!
+2016-09-21 01:08:29,413 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!Interest 0 RMB!
+2016-09-21 01:08:29,414 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_unit_price': 80, 'good_name': 'python cookbook'}} Successful!
+2016-09-21 01:09:37,355 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!Interest 0 RMB!
+2016-09-21 01:09:37,357 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_unit_price': 80, 'good_count': 2}} Successful!
+2016-09-21 01:17:20,910 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!Interest 0 RMB!
+2016-09-21 01:17:20,912 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_name': 'python cookbook', 'good_unit_price': 80}} Successful!
+2016-09-21 08:54:35,080 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!Interest 0 RMB!
+2016-09-21 08:54:35,081 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_name': 'python cookbook', 'good_unit_price': 80}} Successful!
+2016-09-22 09:33:15,709 - 123456 - INFO - Card:123456 repay 20000 RMB!
+2016-09-22 09:33:41,521 - 123456 - INFO - Card:123456 pay 4600 RMB to shop sucessful!Interest 0 RMB!
+2016-09-22 09:33:41,991 - 123456 - INFO - User ID:123456 pay 4600 RMB shop {'ipad mini4': {'good_unit_price': 2300, 'good_count': 2, 'good_name': 'ipad mini4'}} Successful!
+2016-09-22 09:41:34,805 - 123456 - INFO - Card:123456 pay 360 RMB to shop sucessful!Interest 0 RMB!
+2016-09-22 09:41:34,806 - 123456 - INFO - User ID:123456 pay 360 RMB shop {'python core': {'good_name': 'python core', 'good_count': 3, 'good_unit_price': 120}} Successful!
+2016-09-22 09:44:32,605 - 123456 - INFO - Card:123456 pay 0 RMB to shop sucessful!Interest 0 RMB!
+2016-09-22 09:44:32,605 - 123456 - INFO - User ID:123456 pay 0 RMB shop {} Successful!
+2016-09-22 09:47:48,783 - 123456 - INFO - Card:123456 pay 980000 RMB to shop failed!Don't have enough money!
+2016-09-22 09:47:48,784 - 123456 - INFO - User ID:123456 pay 980000 RMB shop {'特斯拉': {'good_unit_price': 980000, 'good_name': '特斯拉', 'good_count': 1}} failed!Don't have enough money!
+2016-09-22 09:48:38,110 - 123456 - INFO - Card:123456 repay 2000000 RMB!
+2016-09-22 09:49:06,742 - 123456 - INFO - Card:123456 pay 980000 RMB to shop sucessful!Interest 0 RMB!
+2016-09-22 09:49:06,743 - 123456 - INFO - User ID:123456 pay 980000 RMB shop {'特斯拉': {'good_unit_price': 980000, 'good_name': '特斯拉', 'good_count': 1}} Successful!
+2016-09-22 09:49:48,738 - 123456 - INFO - Card:123456 pay 156 RMB to shop sucessful!Interest 0 RMB!
+2016-09-22 09:49:48,739 - 123456 - INFO - User ID:123456 pay 156 RMB shop {'python网络编程': {'good_unit_price': 52, 'good_name': 'python网络编程', 'good_count': 3}} Successful!

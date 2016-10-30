@@ -1,0 +1,312 @@
+2016-09-18 22:38:40,442 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-18 22:38:40,443 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-18 22:38:40,443 - shop_log - INFO - ID:123456 is administrator!
+2016-09-18 22:41:22,411 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-18 22:41:22,412 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-18 22:41:22,412 - shop_log - INFO - ID:123456 is administrator!
+2016-09-18 22:45:18,788 - shop_log - INFO - ID:654321 try 1 login!
+2016-09-18 22:45:18,789 - shop_log - INFO - ID:654321 login auth successful!
+2016-09-18 22:45:18,790 - shop_log - INFO - ID:654321 is user!
+2016-09-19 09:40:04,592 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-19 09:40:04,595 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-19 09:40:04,595 - shop_log - INFO - ID:123456 is administrator!
+2016-09-19 09:40:36,834 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-19 09:40:36,834 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-19 09:40:36,835 - shop_log - INFO - ID:123456 is administrator!
+2016-09-19 09:41:53,711 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-19 09:41:53,712 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-19 09:41:53,712 - shop_log - INFO - ID:123456 is administrator!
+2016-09-19 09:42:19,078 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-19 09:42:19,079 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-19 09:42:19,079 - shop_log - INFO - ID:123456 is administrator!
+2016-09-19 09:46:11,087 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-19 09:46:11,088 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-19 09:46:11,088 - shop_log - INFO - ID:123456 is administrator!
+2016-09-19 09:46:20,109 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-19 09:46:20,109 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-19 09:46:20,110 - shop_log - INFO - ID:123456 is administrator!
+2016-09-19 09:47:35,871 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-19 09:47:35,872 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-19 09:47:35,872 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 15:19:29,057 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 15:19:29,094 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 15:19:29,094 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 15:20:22,229 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 15:20:22,229 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 15:20:22,229 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 15:20:48,783 - shop_log - INFO - Modefy user ID: 123456 successful!
+2016-09-20 15:21:47,384 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 15:21:47,384 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 15:21:47,384 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 15:21:57,539 - shop_log - INFO - Modefy user ID 123456 password successful!
+2016-09-20 15:22:15,388 - shop_log - INFO - Queue user ID 654321 successful!
+2016-09-20 15:23:30,659 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 15:23:30,659 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 15:23:30,660 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 15:23:36,233 - shop_log - INFO - Del user 654321 successful!
+2016-09-20 15:23:59,868 - shop_log - INFO - Add new user 654321 successful!
+2016-09-20 15:24:27,038 - shop_log - INFO - Remove freeze card 654321 successful!
+2016-09-20 16:15:49,977 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 16:15:49,978 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 16:15:49,978 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 16:17:26,209 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 16:17:26,209 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 16:17:26,209 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 16:18:14,775 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 16:18:14,776 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 16:18:14,776 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 16:18:28,947 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 16:18:28,947 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 16:18:28,948 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 16:20:46,892 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 16:20:46,892 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 16:20:46,892 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 16:24:31,692 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 16:24:31,692 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 16:24:31,692 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:20:59,692 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 17:20:59,693 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:20:59,693 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:21:45,805 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 17:21:45,806 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:21:45,806 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:23:45,223 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 17:23:45,224 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:23:45,224 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:24:51,522 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 17:24:51,523 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:24:51,523 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:26:41,520 - shop_log - INFO - ID:123465 try 1 login!
+2016-09-20 17:26:41,520 - shop_log - WARNING - ID:123465 try 1 login failed!
+2016-09-20 17:26:46,330 - shop_log - INFO - ID:123456 try 2 login!
+2016-09-20 17:26:46,330 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:26:46,330 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:30:03,806 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 17:30:03,806 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:30:03,807 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:31:01,119 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 17:31:01,119 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:31:01,119 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:34:03,226 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 17:34:03,227 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:34:03,227 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:34:38,225 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 17:34:38,226 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:34:38,226 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:35:12,959 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 17:35:12,959 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:35:12,959 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:35:54,493 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 17:35:54,493 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:35:54,494 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:43:14,925 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 17:43:14,926 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 17:43:14,926 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 17:43:18,706 - shop_log - INFO - User ID:123456 append python cookbook to shop cart!
+2016-09-20 17:45:38,601 - shop_log - INFO - User ID:123456 append python cookbook to shop cart!
+2016-09-20 17:45:44,973 - shop_log - INFO - User ID:123456 append 特斯拉 to shop cart!
+2016-09-20 18:15:42,792 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 18:15:42,793 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 18:15:42,793 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 18:16:39,347 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 18:16:39,348 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 18:16:39,348 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 18:17:32,503 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 18:17:32,504 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 18:17:32,504 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 18:18:49,130 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 18:18:49,130 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 18:18:49,131 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 18:19:22,523 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 18:19:22,524 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 18:19:22,524 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 18:19:41,909 - shop_log - INFO - User ID:123456 from shop cart del good 特斯拉 successful!
+2016-09-20 18:20:28,626 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 18:20:28,627 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 18:20:28,627 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 19:00:49,049 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 19:00:49,049 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 19:00:49,050 - shop_log - INFO - ID:123456 is administrator!
+2016-09-20 23:45:49,692 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-20 23:45:49,737 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-20 23:45:49,737 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:09:14,308 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:09:14,309 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:09:14,309 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:14:01,042 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:14:01,042 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:14:01,042 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:14:39,987 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:14:39,988 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:14:39,988 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:16:54,602 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:16:54,603 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:16:54,603 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:17:00,097 - shop_log - INFO - User ID:{'shop_cart': {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}}, 'password': '8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92', 'username': '胡湘林', 'privilege': 'admin', 'user_id': '123456', 'user_name': '胡湘林', 'freeze': False} pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} failed!Don't have enough money!
+2016-09-21 00:18:25,754 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:18:25,755 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:18:25,755 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:18:34,790 - shop_log - INFO - User ID:{'python cookbook': {'good_count': 2, 'good_unit_price': 80, 'good_name': 'python cookbook'}} pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_unit_price': 80, 'good_name': 'python cookbook'}} failed!Don't have enough money!
+2016-09-21 00:20:06,024 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:20:06,025 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:20:06,025 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:20:11,301 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} failed!Don't have enough money!
+2016-09-21 00:24:36,034 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:24:36,034 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:24:36,035 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:24:41,277 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} failed!Don't have enough money!
+2016-09-21 00:26:25,725 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:26:25,726 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:26:25,726 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:26:31,228 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} failed!Don't have enough money!
+2016-09-21 00:27:18,455 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:27:18,457 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:27:18,457 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:27:22,767 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} failed!Don't have enough money!
+2016-09-21 00:28:03,456 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:28:03,456 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:28:03,456 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:28:07,590 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_unit_price': 80, 'good_name': 'python cookbook'}} failed!Don't have enough money!
+2016-09-21 00:28:37,622 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:28:37,622 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:28:37,623 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:28:42,632 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} failed!Don't have enough money!
+2016-09-21 00:30:03,257 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:30:03,258 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:30:03,259 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:31:47,388 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} failed!Don't have enough money!
+2016-09-21 00:35:12,143 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:35:12,144 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:35:12,144 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:35:17,609 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_count': 2, 'good_name': 'python cookbook'}} Successful!
+2016-09-21 00:39:06,606 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:39:06,608 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:39:06,608 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:39:33,812 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_unit_price': 80, 'good_name': 'python cookbook'}} Successful!
+2016-09-21 00:44:34,600 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:44:34,601 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:44:34,601 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:44:40,918 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_count': 2, 'good_name': 'python cookbook'}} Successful!
+2016-09-21 00:46:46,481 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:46:46,482 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:46:46,482 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:46:53,447 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_name': 'python cookbook', 'good_unit_price': 80}} Successful!
+2016-09-21 00:51:00,080 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:51:00,081 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:51:00,081 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:51:05,317 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_name': 'python cookbook', 'good_unit_price': 80}} Successful!
+2016-09-21 00:53:42,470 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:53:42,470 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:53:42,470 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:53:46,912 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_count': 2, 'good_name': 'python cookbook'}} Successful!
+2016-09-21 00:55:24,239 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:55:24,240 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:55:24,240 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:55:45,600 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:55:45,600 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:55:45,600 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:55:51,964 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} Successful!
+2016-09-21 00:57:26,152 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:57:26,152 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:57:26,152 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:58:31,741 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:58:31,742 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:58:31,742 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 00:58:37,872 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} Successful!
+2016-09-21 00:59:57,321 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 00:59:57,322 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 00:59:57,322 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 01:00:01,931 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} Successful!
+2016-09-21 01:02:49,209 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 01:02:49,209 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 01:02:49,210 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 01:02:53,381 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_unit_price': 80, 'good_count': 2}} Successful!
+2016-09-21 01:05:03,485 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 01:05:03,486 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 01:05:03,486 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 01:05:07,926 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_unit_price': 80, 'good_name': 'python cookbook', 'good_count': 2}} Successful!
+2016-09-21 01:07:55,294 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 01:07:55,294 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 01:07:55,295 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 01:08:00,146 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_unit_price': 80, 'good_count': 2}} Successful!
+2016-09-21 01:08:25,259 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 01:08:25,260 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 01:08:25,260 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 01:08:29,414 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_unit_price': 80, 'good_name': 'python cookbook'}} Successful!
+2016-09-21 01:09:32,056 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 01:09:32,056 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 01:09:32,056 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 01:09:37,357 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_unit_price': 80, 'good_count': 2}} Successful!
+2016-09-21 01:17:11,911 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 01:17:11,912 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 01:17:11,912 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 01:17:20,912 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_name': 'python cookbook', 'good_unit_price': 80}} Successful!
+2016-09-21 08:54:19,594 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 08:54:19,599 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 08:54:19,601 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 08:54:35,081 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_name': 'python cookbook', 'good_unit_price': 80}} Successful!
+2016-09-21 09:11:41,214 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 09:11:41,215 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 09:11:41,215 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 09:11:50,289 - shop_log - INFO - User ID:123456 append 特斯拉 to shop cart!
+2016-09-21 09:11:55,365 - shop_log - INFO - User ID:123456 append 特斯拉 to shop cart!
+2016-09-21 09:11:56,408 - shop_log - INFO - User ID:123456 append 宝马7系LI to shop cart!
+2016-09-21 09:11:58,087 - shop_log - INFO - User ID:123456 append 丰田凯美瑞 to shop cart!
+2016-09-21 09:12:00,521 - shop_log - INFO - User ID:123456 append 丰田凯美瑞 to shop cart!
+2016-09-21 09:12:10,687 - shop_log - INFO - User ID:123456 append mac book pro to shop cart!
+2016-09-21 09:12:11,874 - shop_log - INFO - User ID:123456 append mac book pro to shop cart!
+2016-09-21 09:14:04,123 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 09:14:04,124 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 09:14:04,124 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 09:14:13,705 - shop_log - INFO - User ID:123456 pay 2760760 RMB shop {'mac book pro': {'good_name': 'mac book pro', 'good_count': 2, 'good_unit_price': 10300}, '丰田凯美瑞': {'good_name': '丰田凯美瑞', 'good_count': 2, 'good_unit_price': 180000}, '特斯拉': {'good_name': '特斯拉', 'good_count': 2, 'good_unit_price': 980000}, '宝马7系LI': {'good_name': '宝马7系LI', 'good_count': 1, 'good_unit_price': 420000}, 'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} failed!Don't have enough money!
+2016-09-21 09:14:47,943 - shop_log - INFO - User ID:123456 from shop cart del good 特斯拉 successful!
+2016-09-21 09:15:06,680 - shop_log - INFO - User ID:123456 from shop cart del good 丰田凯美瑞 successful!
+2016-09-21 09:15:24,967 - shop_log - INFO - User ID:123456 from shop cart del good 宝马7系LI successful!
+2016-09-21 09:15:30,104 - shop_log - INFO - User ID:123456 pay 20760 RMB shop {'mac book pro': {'good_name': 'mac book pro', 'good_count': 2, 'good_unit_price': 10300}, 'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} Successful!
+2016-09-21 09:18:16,256 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 09:18:16,257 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 09:18:16,257 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 09:18:47,137 - shop_log - INFO - User ID:123456 from shop cart del good mac book pro successful!
+2016-09-21 09:18:57,919 - shop_log - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} Successful!
+2016-09-21 09:21:09,494 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 09:21:09,495 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 09:21:09,495 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 09:25:24,812 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 09:25:24,813 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 09:25:24,813 - shop_log - INFO - ID:123456 is administrator!
+2016-09-21 09:25:41,855 - shop_log - INFO - User ID:123456 append ipad mini4 to shop cart!
+2016-09-21 09:25:45,917 - shop_log - INFO - User ID:123456 append ipad mini4 to shop cart!
+2016-09-21 09:27:22,028 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-21 09:27:22,030 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-21 09:27:22,030 - shop_log - INFO - ID:123456 is administrator!
+2016-09-22 09:33:28,715 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-22 09:33:28,757 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-22 09:33:28,757 - shop_log - INFO - ID:123456 is administrator!
+2016-09-22 09:33:41,991 - shop_log - INFO - User ID:123456 pay 4600 RMB shop {'ipad mini4': {'good_unit_price': 2300, 'good_count': 2, 'good_name': 'ipad mini4'}} Successful!
+2016-09-22 09:41:08,906 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-22 09:41:08,907 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-22 09:41:08,907 - shop_log - INFO - ID:123456 is administrator!
+2016-09-22 09:41:18,503 - shop_log - INFO - User ID:123456 append python core to shop cart!
+2016-09-22 09:41:22,144 - shop_log - INFO - User ID:123456 append python core to shop cart!
+2016-09-22 09:41:23,910 - shop_log - INFO - User ID:123456 append python core to shop cart!
+2016-09-22 09:41:34,806 - shop_log - INFO - User ID:123456 pay 360 RMB shop {'python core': {'good_name': 'python core', 'good_count': 3, 'good_unit_price': 120}} Successful!
+2016-09-22 09:42:54,777 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-22 09:42:54,778 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-22 09:42:54,778 - shop_log - INFO - ID:123456 is administrator!
+2016-09-22 09:44:32,606 - shop_log - INFO - User ID:123456 pay 0 RMB shop {} Successful!
+2016-09-22 09:47:23,803 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-22 09:47:23,805 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-22 09:47:23,811 - shop_log - INFO - ID:123456 is administrator!
+2016-09-22 09:47:32,043 - shop_log - INFO - User ID:123456 append 特斯拉 to shop cart!
+2016-09-22 09:47:48,784 - shop_log - INFO - User ID:123456 pay 980000 RMB shop {'特斯拉': {'good_unit_price': 980000, 'good_name': '特斯拉', 'good_count': 1}} failed!Don't have enough money!
+2016-09-22 09:48:54,586 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-22 09:48:54,588 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-22 09:48:54,595 - shop_log - INFO - ID:123456 is administrator!
+2016-09-22 09:49:06,743 - shop_log - INFO - User ID:123456 pay 980000 RMB shop {'特斯拉': {'good_unit_price': 980000, 'good_name': '特斯拉', 'good_count': 1}} Successful!
+2016-09-22 09:49:23,866 - shop_log - INFO - ID:123456 try 1 login!
+2016-09-22 09:49:23,868 - shop_log - INFO - ID:123456 login auth successful!
+2016-09-22 09:49:23,870 - shop_log - INFO - ID:123456 is administrator!
+2016-09-22 09:49:33,161 - shop_log - INFO - User ID:123456 append python网络编程 to shop cart!
+2016-09-22 09:49:33,809 - shop_log - INFO - User ID:123456 append python网络编程 to shop cart!
+2016-09-22 09:49:34,473 - shop_log - INFO - User ID:123456 append python网络编程 to shop cart!
+2016-09-22 09:49:48,739 - shop_log - INFO - User ID:123456 pay 156 RMB shop {'python网络编程': {'good_unit_price': 52, 'good_name': 'python网络编程', 'good_count': 3}} Successful!

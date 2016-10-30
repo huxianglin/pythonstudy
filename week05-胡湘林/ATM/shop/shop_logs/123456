@@ -1,0 +1,30 @@
+2016-09-20 18:19:41,909 - 123456 - INFO - From shop cart del good 特斯拉 successful!
+2016-09-21 00:46:53,447 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_name': 'python cookbook', 'good_unit_price': 80}} Successful!
+2016-09-21 00:58:37,872 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} Successful!
+2016-09-21 01:08:29,413 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!Interest 0 RMB!
+2016-09-21 01:08:29,414 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_count': 2, 'good_unit_price': 80, 'good_name': 'python cookbook'}} Successful!
+2016-09-21 01:09:37,355 - 123456 - INFO - Card:123456 pay 160 RMB to shop sucessful!Interest 0 RMB!
+2016-09-21 01:09:37,357 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_unit_price': 80, 'good_count': 2}} Successful!
+2016-09-21 09:11:50,289 - 123456 - INFO - append 特斯拉 to shop cart!
+2016-09-21 09:11:55,365 - 123456 - INFO - append 特斯拉 to shop cart!
+2016-09-21 09:11:56,408 - 123456 - INFO - append 宝马7系LI to shop cart!
+2016-09-21 09:11:58,087 - 123456 - INFO - append 丰田凯美瑞 to shop cart!
+2016-09-21 09:12:00,522 - 123456 - INFO - append 丰田凯美瑞 to shop cart!
+2016-09-21 09:12:10,688 - 123456 - INFO - append mac book pro to shop cart!
+2016-09-21 09:12:11,874 - 123456 - INFO - append mac book pro to shop cart!
+2016-09-21 09:14:13,705 - 123456 - INFO - User ID:123456 pay 2760760 RMB shop {'mac book pro': {'good_name': 'mac book pro', 'good_count': 2, 'good_unit_price': 10300}, '丰田凯美瑞': {'good_name': '丰田凯美瑞', 'good_count': 2, 'good_unit_price': 180000}, '特斯拉': {'good_name': '特斯拉', 'good_count': 2, 'good_unit_price': 980000}, '宝马7系LI': {'good_name': '宝马7系LI', 'good_count': 1, 'good_unit_price': 420000}, 'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} failed!Don't have enough money!
+2016-09-21 09:14:47,943 - 123456 - INFO - From shop cart del good 特斯拉 successful!
+2016-09-21 09:15:06,681 - 123456 - INFO - From shop cart del good 丰田凯美瑞 successful!
+2016-09-21 09:15:24,967 - 123456 - INFO - From shop cart del good 宝马7系LI successful!
+2016-09-21 09:15:30,103 - 123456 - INFO - User ID:123456 pay 20760 RMB shop {'mac book pro': {'good_name': 'mac book pro', 'good_count': 2, 'good_unit_price': 10300}, 'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} Successful!
+2016-09-21 09:18:47,137 - 123456 - INFO - From shop cart del good mac book pro successful!
+2016-09-21 09:18:57,919 - 123456 - INFO - User ID:123456 pay 160 RMB shop {'python cookbook': {'good_name': 'python cookbook', 'good_count': 2, 'good_unit_price': 80}} Successful!
+2016-09-21 09:25:41,855 - 123456 - INFO - append ipad mini4 to shop cart!
+2016-09-21 09:25:45,917 - 123456 - INFO - append ipad mini4 to shop cart!
+2016-09-22 09:41:18,504 - 123456 - INFO - append python core to shop cart!
+2016-09-22 09:41:22,144 - 123456 - INFO - append python core to shop cart!
+2016-09-22 09:41:23,910 - 123456 - INFO - append python core to shop cart!
+2016-09-22 09:47:32,048 - 123456 - INFO - append 特斯拉 to shop cart!
+2016-09-22 09:49:33,165 - 123456 - INFO - append python网络编程 to shop cart!
+2016-09-22 09:49:33,813 - 123456 - INFO - append python网络编程 to shop cart!
+2016-09-22 09:49:34,474 - 123456 - INFO - append python网络编程 to shop cart!
